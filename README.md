@@ -17,7 +17,7 @@ My research lies at Microeconomic Theory and Policy Economics. I am driven by a 
 
 ## Curriculum Vitae
 
- **[Download my Curriculum Vitae (PDF)](/CV_moLiu.pdf)**
+ **[Read Full Paper (PDF)](/CV_moliu.pdf)**
 
 
 ---
@@ -29,17 +29,17 @@ Below are research papers and course projects demonstrating my work in both theo
 ### 1. College-Major Choice in the Gaokao Mechanism
 
 * **Summary:** This paper analyzes the Chinese *Gaokao* system by formulating a three-sided matching model (students, colleges, majors). I demonstrate that while a two-phase deferred acceptance algorithm can yield stable outcomes under separable preferences, specific conditions including restricted proposals and intra-group adjustments can introduce instability and reduce strategy-proofness.
-* 📥 **[Read Full Paper (PDF)](/college_major_choice_in_gaokao.pdf)**
+* **[Read Full Paper (PDF)](/college_major_choice_in_gaokao.pdf)**
 
 ### 2. Measuring Teacher Effect Using CEPS Data
 
 * **Summary:** Using data from the China Education Panel Survey (CEPS), this empirical study estimates teacher value-added effects on student performance. By applying fixed-effects panel models to address endogeneity from non-random teacher assignments, I find that teacher quality differences account for 0.12–0.13 standard deviations in student test scores.
-* 📥 **[Read Full Paper (PDF)](/Estimating_teacher_effect.pdf)**
+* **[Read Full Paper (PDF)](/Estimating_teacher_effect.pdf)**
 
 ### 3. Analysis of Shenzhen Car Plates Allocation Mechanism
 
 * **Summary:** This paper investigates Shenzhen's hybrid lottery-auction system for car license plates. I established a Game Theory model based on private values to derive the Bayesian Nash Equilibrium for bidders. The study evaluates the mechanism's equity (via Gini Coefficient) and efficiency (social surplus) and utilizes machine learning methods to forecast minimum auction prices.
-* 📥 **[Read Full Paper (PDF)](/undergraduate_thesisMoLiu.pdf)**
+* **[Read Full Paper (PDF)](/undergraduate_thesisMoLiu.pdf)**
 
 ---
 
